@@ -1,0 +1,6 @@
+{
+  "name": "IndiBazaar - Multi-Vendor Marketplace",
+  "description": "A modern Indian multi-vendor e-commerce marketplace featuring customer shopping, vendor management portal, and admin governance with ₹ INR pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
